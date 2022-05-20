@@ -1,2 +1,5 @@
 # Policy Predictor Logistic Regression Model
-Policy predictor logistic regression model using Jupiter notebook
+Road traffic policy predictor from logistic regression model
+
+# Technologies
+Python, Jupiter Notebook, Logistic Regression

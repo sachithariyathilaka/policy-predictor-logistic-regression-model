@@ -7,8 +7,8 @@ Road traffic policy predictor from logistic regression model.
     * Logistic Regression Algorithm
 
 * ### Release Note
-    * Release: 1.0.0
-    * Date: 2024/05/26
+    * Version: 1.0.0
+    * Release Date: 2024/05/26
     * Module: Policy Predictor Logistic Regression Model
     * Changes
         * Policy predictor logistic regression model implemented.
